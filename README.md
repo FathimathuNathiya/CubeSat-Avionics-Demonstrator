@@ -57,8 +57,7 @@ CubeSat_Avionics_Demonstrator/
 │   └── cubesat_avionics.py   
 │ 
 └── images/
-     ├── cubesat_model.png
-     ├── circuit_setup.png
-     ├── servo_panel_deployment.png
-     └── serial_monitor.png    
+     ├── cubesat_model.jpeg
+     ├── circuit_setup.jpeg
+     └── serial_monitor.jpeg   
 ```
