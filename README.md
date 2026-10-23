@@ -59,5 +59,6 @@ CubeSat_Avionics_Demonstrator/
 └── images/
      ├── cubesat_model.jpeg
      ├── circuit_setup.jpeg
+     ├── panel_deployment.jpeg
      └── serial_monitor.jpeg   
 ```
